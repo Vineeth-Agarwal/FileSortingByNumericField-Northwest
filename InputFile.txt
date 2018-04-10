@@ -1,0 +1,4 @@
+531,This is a string,There are three fields separated by a comma in this file
+322,This is the string 2,Again three fields
+1224,This is a thrid string,Again  three fields
+233,This is a fourth string,Again three fields
