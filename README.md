@@ -28,7 +28,7 @@ The reason for the line starting with 1224, resulting in the beginning of file, 
 ### Proposed Solution: Working and tested Python code is as below:
 
 ##### Step0: Open input and output files and create empty lists.
-    ###### Sort_By_Numeric_Field.py
+###### Sort_By_Numeric_Field.py
     input=open("inputFile.txt","r")
     output=open("outputFile.txt","w")
     tupples_array = []
